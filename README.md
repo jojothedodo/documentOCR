@@ -1,3 +1,3 @@
 # documentOCR
 
-Nothing in here, go to branch "eden" to see my code!
+Run eden.py to POST the API call, then run eden_get.py with the public id that eden.py printed in order to get the JSON results.
